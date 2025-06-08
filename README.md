@@ -1,0 +1,1 @@
+# framer-store-search-api
